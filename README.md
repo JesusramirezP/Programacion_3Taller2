@@ -251,7 +251,7 @@ CampusNet constituye una simulación académica de una red social universitaria,
 ## 11. Información académica  
 
 Autor: Jesus Ramirez.  
-Profesor:   
+Profesor: Carlos Alberto Gutierrez Rodas     
 Programacion III.  
 Universidad de Manizales.  
 
